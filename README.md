@@ -6,7 +6,7 @@ Sou **Daniel Marques da Cunha Nery**, estudante de **Sistemas de Informação na
 Tenho experiência com **suporte técnico, redes de computadores, segurança da informação e análise de dados**, além de formações técnicas em **Eletrônica (FAETEC)** e **Logística (SENAI)**.
 
 Sou movido por curiosidade e gosto de resolver problemas com **dados, automação e tecnologia**.  
-Atualmente, estudo **Python, SQL, Power BI e backend com Flask**, buscando unir análise e desenvolvimento em projetos práticos.
+Atualmente, estudo **Python, SQL, Power BI e IA**, buscando unir análise e desenvolvimento em projetos práticos.
 
 ---
 
