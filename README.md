@@ -14,7 +14,7 @@ Construo **agentes, automações e ferramentas internas** que resolvem gargalos 
   <a href="https://github.com/DanielMNery" target="_blank">
     <img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/daniel-nery-71a9291a6" target="_blank">
+  <a href="https://www.linkedin.com/in/daniel-nery-71a9291a6" target="_blank">
     <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:danielmarquesnery@gmail.com">
