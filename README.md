@@ -11,13 +11,13 @@ Construo **agentes, automações e ferramentas internas** que resolvem gargalos 
 ### 🌐 Conecte-se comigo
 
 <p align="left">
-  <a href="https://github.com/DanielNery" target="_blank">
+  <a href="https://github.com/DanielMNery" target="_blank">
     <img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/danielnery-uff" target="_blank">
+  <a href="www.linkedin.com/in/daniel-nery-71a9291a6" target="_blank">
     <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:danielnerysi@gmail.com">
+  <a href="mailto:danielmarquesnery@gmail.com">
     <img alt="E-mail" title="Enviar e-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
